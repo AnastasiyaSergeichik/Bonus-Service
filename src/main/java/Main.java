@@ -6,5 +6,7 @@ public class Main {
     boolean registered = true;
 
     service.calculate(amount, registered);
+
   }
 }
+
